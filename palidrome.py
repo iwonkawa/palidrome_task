@@ -1,10 +1,11 @@
 # Test the function
 strings = [
-    "A man a plan a canal Panama",
+    "We panic in a pew",
     "racecar",
-    "hello",
+    "Never a foot too far, even",
     "Was it a car or a cat I saw",
-    "No lemon, no melon"
+    "Madam, in Eden, I’m Adam"
+    "Step on no pets!"
 ]
 
 def check_palindrome(text):
